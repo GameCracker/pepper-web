@@ -1,6 +1,6 @@
 # box:wercker/default
 # our build should run within a Ruby box
-box: wercker/ruby
+box: wercker/default
 build:
   steps:
     # Run a smart version of bundle INSTALL
