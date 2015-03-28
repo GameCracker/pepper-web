@@ -6,7 +6,7 @@ build:
     # Run a smart version of bundle INSTALL
     # which improves build execution time of
     # future builds
-    - bundle install
+    - bundle INSTALL
 
     # A custom script step
     # that actually builds the jekyll site
