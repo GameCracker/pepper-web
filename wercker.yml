@@ -1,12 +1,12 @@
 # box:wercker/default
 # our build should run within a Ruby box
-box: wercker/default
+box: wercker/ruby
 build:
   steps:
     # Run a smart version of bundle INSTALL
     # which improves build execution time of
     # future builds
-    - bundle INSTALL
+    - bundle-install
 
     # A custom script step
     # that actually builds the jekyll site
