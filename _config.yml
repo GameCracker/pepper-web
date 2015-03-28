@@ -1,0 +1,30 @@
+# Site settings
+title: Pepper - AR & BCI
+email: ziqikelly@gmail.com
+url: https://localhost:4000
+description: "Wearable Augmented Reality computer with EEG & extended sensors inputs."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: peppers.io
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: 
+  - title: bitbucket
+    url: 
+  - title: github
+    url: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
