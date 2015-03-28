@@ -1,7 +1,7 @@
 # Site settings
 title: Pepper - AR & BCI
 email: ziqikelly@gmail.com
-url: https://localhost:4000
+url: http://peppers.io
 description: "Wearable Augmented Reality computer with EEG & extended sensors inputs."
 
 # Color settings (hex-codes without the leading hash-tag)
